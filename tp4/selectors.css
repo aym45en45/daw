@@ -1,0 +1,70 @@
+/*qst 1*/
+body {
+    background-color: #bdc3c7;
+}
+
+/*qst 2*/
+h1 {
+    color: #9b59b6;
+}
+
+/*qst 3*/
+h2 {
+    color: orange;
+}
+
+/*qst 4*/
+li {
+    color: #17176b;
+}
+
+/*qst 5*/
+p {
+    background-color: yellow;
+}
+
+/*qst 6*/
+input {
+    border: 3px solid red;
+}
+
+/*qst 7*/
+.hello {
+    background-color: white;
+}
+
+/*qst 8*/
+#special {
+    border: 2px solid rgb(12, 12, 175);
+}
+
+/*qst 9*/
+div p {
+    font-size: 25px;
+}
+
+/*qst 10*/
+input[type="text"] {
+    background-color: grey;
+}
+
+/*qst 11*/
+div:nth-of-type(3) p {
+    background-color: pink;
+}
+
+/*qst 12*/
+div:nth-of-type(3) p:nth-of-type(2) {
+    border: 5px solid rgb(255, 255, 255);
+}
+
+/*qst 13*/
+div:nth-of-type(3) em {
+    color: white;
+    font-size: 20px;
+}
+
+/*qst 14*/
+input[type="checkbox"]:checked{
+    margin-left: 50px;
+}
